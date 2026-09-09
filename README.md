@@ -136,7 +136,7 @@ Iris-ANN-Classifier/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/Iris-ANN-Classifier.git
+git clone https://github.com/Siddharthcdt25/Iris-ANN-Classifier.git
 cd Iris-ANN-Classifier
 ```
 
